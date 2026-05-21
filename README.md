@@ -13,8 +13,8 @@ A lightweight Python project for text preprocessing, tokenization, word frequenc
 ## Project Structure
 
 .
- ── token_frequency_analyzer.py
- ── README.md
+├── token_frequency_analyzer.py
+└── README.md
 
 ## Requirements
 
